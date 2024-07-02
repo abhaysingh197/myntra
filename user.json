@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Nadislava",
+        "last": "Udovichenko"
+      },
+      "location": {
+        "street": {
+          "number": 7281,
+          "name": "Rzhishchivska"
+        },
+        "city": "Mirgorod",
+        "state": "Sumska",
+        "country": "Ukraine",
+        "postcode": 58483,
+        "coordinates": {
+          "latitude": "73.7226",
+          "longitude": "118.5577"
+        },
+        "timezone": {
+          "offset": "-8:00",
+          "description": "Pacific Time (US & Canada)"
+        }
+      },
+      "email": "nadislava.udovichenko@example.com",
+      "login": {
+        "uuid": "9d12bc8b-837f-4a70-937c-127228c1340e",
+        "username": "silverbutterfly248",
+        "password": "hores",
+        "salt": "nC8MBdgo",
+        "md5": "3d58cd7590db00f2ee0f72aa254e0e7b",
+        "sha1": "9d1397b03ffba4c24952e7b1e9dd7bbf9b37be31",
+        "sha256": "0bcba9b87d6f8ba4292fb9b92d02fb3f1075e84be6954024288fe51e96dcc5bc"
+      },
+      "dob": {
+        "date": "1969-12-22T10:19:58.458Z",
+        "age": 54
+      },
+      "registered": {
+        "date": "2005-10-29T18:50:59.029Z",
+        "age": 18
+      },
+      "phone": "(096) U02-2080",
+      "cell": "(067) E73-7476",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/14.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+      },
+      "nat": "UA"
+    }
+  ],
+  "info": {
+    "seed": "67fca0179ae9dd4a",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
